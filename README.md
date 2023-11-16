@@ -20,14 +20,18 @@ O presente projeto de Data Analytics foi iniciado a pedido da gestão da empresa
 - Com base nos resultados das análises, foram criados dashboards interativos no Power BI.
 
 ### Visões no Power BI
+
 1. **Dashboard de Turnover Geral:**
    - Apresenta taxas de desligamento ao longo do tempo, destacando picos e tendências.
      
-![Overview]([https://github.com/Sam-Batisti/mba-famesp-DataAnalytics/blob/main/Overview_BI.PNG])
+   ![Overview](https://github.com/Sam-Batisti/mba-famesp-DataAnalytics/blob/main/Overview_BI.PNG)
+
 2. **Análise de Desempenho:**
    - Compara o desempenho dos analistas atuais e desligados, permitindo a identificação de padrões de desempenho associados ao turnover.
 
-![Ativos]([https://github.com/Sam-Batisti/mba-famesp-DataAnalytics/blob/main/Ativos_BI.PNG])
-![Desligados]([https://github.com/Sam-Batisti/mba-famesp-DataAnalytics/blob/main/Desligados_BI.PNG])
+   ![Ativos](https://github.com/Sam-Batisti/mba-famesp-DataAnalytics/blob/main/Ativos_BI.PNG)
+
+   ![Desligados](https://github.com/Sam-Batisti/mba-famesp-DataAnalytics/blob/main/Desligados_BI.PNG)
+
 
 Este projeto proporcionou uma compreensão mais profunda dos motivos por trás do turnover dos analistas e ofereceu insights acionáveis para aprimorar a retenção de talentos na empresa. Os dashboards interativos no Power BI fornecem à gestão ferramentas poderosas para monitorar e otimizar continuamente a experiência dos colaboradores.
