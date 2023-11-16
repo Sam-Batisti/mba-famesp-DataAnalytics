@@ -1,7 +1,6 @@
 # mba-famesp-DataAnalytics
 Projeto de Data Analytics - MBA Famesp
 
-https://app.powerbi.com/reportEmbed?reportId=5153e7b3-80f8-466e-8923-05e47492ff1b&autoAuth=true&ctid=6506b780-5851-4f47-8529-a11107eda7e1
 # Projeto de Data Analytics: Análise de Turnover de Analistas
 
 ## Contexto do Projeto
@@ -33,5 +32,7 @@ O presente projeto de Data Analytics foi iniciado a pedido da gestão da empresa
 
    ![Desligados](https://github.com/Sam-Batisti/mba-famesp-DataAnalytics/blob/main/Desligados_BI.PNG)
 
+
+Link para o [Power BI](https://app.powerbi.com/reportEmbed?reportId=5153e7b3-80f8-466e-8923-05e47492ff1b&autoAuth=true&ctid=6506b780-5851-4f47-8529-a11107eda7e1)
 
 Este projeto proporcionou uma compreensão mais profunda dos motivos por trás do turnover dos analistas e ofereceu insights acionáveis para aprimorar a retenção de talentos na empresa. Os dashboards interativos no Power BI fornecem à gestão ferramentas poderosas para monitorar e otimizar continuamente a experiência dos colaboradores.
